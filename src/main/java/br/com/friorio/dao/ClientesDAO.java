@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package br.friorio.dao;
+package br.com.friorio.dao;
 
 import br.com.friorio.model.Clientes;
 import br.com.fririo.jdbc.ConnectionFactory;
